@@ -2,7 +2,7 @@
 
 **Baixe o arquivo do GhostHaunt para o KODI clicando no botão abaixo:**
 
-[![Baixar GhostHaunt](https://img.shields.io/badge/Download-Knight of Shadows brasil-blue.svg)](https://knightofshadowsbrasil.github.io/plugin.video.knightofShadowsbrasil.zip)
+[![Download Knight of Shadows Brasil](https://img.shields.io/badge/Download-Knight_of_Shadows_Brasil-blue.svg)](https://knightofshadowsbrasil.github.io/plugin.video.knightofShadowsbrasil.zip)
 
 ## Instruções de Download
 
